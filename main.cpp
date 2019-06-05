@@ -12,6 +12,8 @@ int main(int argc, char *argv[])
     int i = 0;
     int j = 0;
     int z = 0;
+    int haha = 0;
+    int zzzz = 0;
     return 0;
 
 }
